@@ -1,0 +1,29 @@
+{
+  "name": "normal",
+  "version": "0.0.0",
+  "description": "normalize a javascript array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morganherlocker/normal.git"
+  },
+  "keywords": [
+    "data",
+    "normal",
+    "normalize",
+    "arrays",
+    "array"
+  ],
+  "author": "morganherlocker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morganherlocker/normal/issues"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "simple-statistics": "~0.7.0"
+  }
+}
