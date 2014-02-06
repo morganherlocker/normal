@@ -4,7 +4,7 @@
   "description": "normalize a javascript array",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/*"
+    "test": "mocha test/."
   },
   "repository": {
     "type": "git",
