@@ -9,3 +9,9 @@ var n = normal(t, 100)
 // n is now an array normalized to a scale of 100
 console.log(n)
 ```
+
+**Install**
+
+```bash
+npm install normal
+```
