@@ -1,5 +1,5 @@
 var _ = require('lodash'),
-    simple-statistics = require('simple-statistics')
+    ss = require('simple-statistics')
 
 module.exports = function(array, value) { 
   var normals = []
